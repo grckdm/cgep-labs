@@ -7,3 +7,4 @@ tfplan
 *.tfvars
 crash.log
 crash.*.log
+.trestle-work/
